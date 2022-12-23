@@ -1,7 +1,7 @@
 # Bottom-up-LR-Parser
 
-Grammar:
-![image](https://user-images.githubusercontent.com/55497608/209395935-0f14959c-d6dc-415e-9d8f-12678ae0d5e5.png)
+Grammar:<br />
+![image](https://user-images.githubusercontent.com/55497608/209395935-0f14959c-d6dc-415e-9d8f-12678ae0d5e5.png)<br />
 LR Parsing Table:
 Your program will take one string ending with $ as an input and will create the output file with
 the contents of the Stack, Input, and Action as explained in the lecture.
